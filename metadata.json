@@ -1,0 +1,6 @@
+{
+  "name": "Smart Utility Calculator",
+  "description": "A modern multi-functional calculator, unit/currency/date/financial converter, with offline support, customizable shortcuts, and secure encrypted WebDAV backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
